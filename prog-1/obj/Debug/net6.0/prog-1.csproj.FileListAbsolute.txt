@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\C#\1_Program\prog-1\bin\Debug\net6.0\prog-1.exe
+C:\Users\Max\Desktop\C#\1_Program\prog-1\bin\Debug\net6.0\prog-1.deps.json
+C:\Users\Max\Desktop\C#\1_Program\prog-1\bin\Debug\net6.0\prog-1.runtimeconfig.json
+C:\Users\Max\Desktop\C#\1_Program\prog-1\bin\Debug\net6.0\prog-1.dll
+C:\Users\Max\Desktop\C#\1_Program\prog-1\bin\Debug\net6.0\prog-1.pdb
+C:\Users\Max\Desktop\C#\1_Program\prog-1\obj\Debug\net6.0\prog-1.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\C#\1_Program\prog-1\obj\Debug\net6.0\prog-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\C#\1_Program\prog-1\obj\Debug\net6.0\prog-1.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\C#\1_Program\prog-1\obj\Debug\net6.0\prog-1.AssemblyInfo.cs
+C:\Users\Max\Desktop\C#\1_Program\prog-1\obj\Debug\net6.0\prog-1.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\C#\1_Program\prog-1\obj\Debug\net6.0\prog-1.dll
+C:\Users\Max\Desktop\C#\1_Program\prog-1\obj\Debug\net6.0\refint\prog-1.dll
+C:\Users\Max\Desktop\C#\1_Program\prog-1\obj\Debug\net6.0\prog-1.pdb
+C:\Users\Max\Desktop\C#\1_Program\prog-1\obj\Debug\net6.0\prog-1.genruntimeconfig.cache
+C:\Users\Max\Desktop\C#\1_Program\prog-1\obj\Debug\net6.0\ref\prog-1.dll
