@@ -1,12 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Задача №1");
+Console.WriteLine("Задача №1 ");
 
 Console.WriteLine("Введите число a");
 int a = int.Parse(Console.ReadLine());  /// int.Parse() переводит вводимые значения в числа (пользователь всегда вводит строку)
 
 Console.WriteLine("Введите число b");
 int b = int.Parse(Console.ReadLine());  /// int.Parse() переводит вводимые значения в числа (пользователь всегда вводит строку)
-if(a > b) 
+if (a > b)
 {
     Console.WriteLine("Вывод: a больше b, а = " + a);
 }
