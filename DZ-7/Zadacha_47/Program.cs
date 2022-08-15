@@ -31,6 +31,7 @@ double[,] GetArr(int stroki, int stolb)
     }
     return arr;
 }
+
 void RandomMassiv(double[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)

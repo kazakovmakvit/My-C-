@@ -45,5 +45,6 @@ for (int i = 0; i < arr.GetLength(0); i++)
         sredZnach = (arr[i, j] + sredZnach);
     }
     sredZnach = sredZnach / arr.GetLength(1);
-    System.Console.WriteLine(string.Format("Среднее значение " + i + " строки: " + "{0:F1}", sredZnach));
+    System.Console.WriteLine(string.Format("Среднее значение " + i + " строки: " + "{0:F2}", sredZnach));
+    sredZnach = 0;
 }
