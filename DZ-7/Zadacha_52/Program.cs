@@ -38,13 +38,13 @@ PrintArr(arr);
 
 double sredZnach = 0;
 
-for (int i = 0; i < arr.GetLength(0); i++)
+for (int i = 0; i < arr.GetLength(1); i++)
 {
-    for (int j = 0; j < arr.GetLength(1); j++)
+    for (int j = 0; j < arr.GetLength(0); j++)
     {
-        sredZnach = (arr[i, j] + sredZnach);
+        sredZnach = (arr[j, i] + sredZnach);
     }
-    sredZnach = sredZnach / arr.GetLength(1);
-    System.Console.WriteLine(string.Format("Среднее значение " + i + " строки: " + "{0:F2}", sredZnach));
+    sredZnach = sredZnach / arr.GetLength(0);
+    System.Console.Write(string.Format("{0:F2}", sredZnach) + "; ");
     sredZnach = 0;
 }
